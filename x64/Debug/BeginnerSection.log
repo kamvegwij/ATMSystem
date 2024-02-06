@@ -1,6 +1,6 @@
 ﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BeginnerSection.vcxproj).  This can lead to incorrect clean and rebuild behavior.
   MainScript.cpp
-C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\MainScript.cpp(123,14): warning C4553: '==': result of expression not used; did you intend '='?
-C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\MainScript.cpp(131,14): warning C4553: '==': result of expression not used; did you intend '='?
-C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\MainScript.cpp(144,14): warning C4553: '==': result of expression not used; did you intend '='?
-  BeginnerSection.vcxproj -> C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\x64\Debug\ATMSystem.exe
+C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\ATMSystem\MainScript.cpp(123,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\ATMSystem\MainScript.cpp(131,14): warning C4553: '==': result of expression not used; did you intend '='?
+C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\ATMSystem\MainScript.cpp(144,14): warning C4553: '==': result of expression not used; did you intend '='?
+  BeginnerSection.vcxproj -> C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\ATMSystem\x64\Debug\ATMSystem.exe

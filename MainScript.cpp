@@ -107,11 +107,11 @@ int main()
 	std::string stemp = "", stemp2 = "";
 	bool logged_in = false;
 
-	user_obj.set_user_details("Kamvelihle", "Gwijana", "0011025120087", "0655784075", "1122", "1234");
-	//user_obj.get_user_details();
+	user_obj.set_user_details("John", "Doe", "9605035878216", "0612345678", "1122", "1234");
 
 	while (1) //infinite
 	{
+		std::cout << "***Welcome to Bank KGW***" << "\n";
 		std::cout << "Enter Account Number: ";
 		std::cin >> stemp;
 		std::cout << "Enter Pin: ";
@@ -134,7 +134,7 @@ int main()
 		
 	while (1)
 	{
-		std::cout << "***Welcome to Bank KGW***" << "\n";
+		std::cout << "***Menu***" << "\n";
 		std::cout << "(1) To view balance\n(2) To view pin number\n(3) To make a deposit\n(4) To make a withdrawal\n(5) Update phone number\n(6) View Details\n(0) To cancel \n";
 		std::cin >> temp;
 

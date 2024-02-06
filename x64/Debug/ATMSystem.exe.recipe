@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\x64\Debug\ATMSystem.exe</FullPath>
+      <FullPath>C:\BuiltSoftware\UdemyCourseCPlus\BeginnerCode\ATMSystemBasic\ATMSystem\x64\Debug\ATMSystem.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
