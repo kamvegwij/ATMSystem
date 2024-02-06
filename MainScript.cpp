@@ -142,7 +142,7 @@ int main()
 		{
 		case 0:
 			logged_in == false;
-			break;
+			exit(0);
 
 		case 1:
 			std::cout << "User Balance: R" << user_obj.get_balance() << "\n";
